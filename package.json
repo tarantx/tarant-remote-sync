@@ -58,7 +58,7 @@
     "typescript": "4.0.2"
   },
   "dependencies": {
-    "axios": "0.20.0",
+    "axios": "0.21.1",
     "tarant": "2.7.39"
   },
   "jest": {
